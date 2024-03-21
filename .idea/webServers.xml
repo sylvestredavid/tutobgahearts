@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3e58b538-c6e5-4fb5-977d-c9e228d86eb4" name="bga">
+        <fileTransfer rootFolder="/hearttutorialdavid" accessType="SFTP" host="1.studio.boardgamearena.com" port="22" sshConfigId="d8574564-c8a4-45cc-956c-2ce1d673f89c" sshConfig="davidsylvestre@1.studio.boardgamearena.com:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
