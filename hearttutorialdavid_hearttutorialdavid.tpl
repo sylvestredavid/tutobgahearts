@@ -1,7 +1,7 @@
 {OVERALL_GAME_HEADER}
 
 <!-- 
---------
+-------- essais
 -- BGA framework: Gregory Isabelli & Emmanuel Colin & BoardGameArena
 -- hearttutorialdavid implementation : © <Your name here> <Your email address here>
 -- 
